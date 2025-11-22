@@ -1,13 +1,4 @@
-Great! 🎉
-Aapne **Month Wise Quantity** ka chart diya hai — next GitHub project ke liye ek **professional, modern & analytics-focused README** main pura tayar kar deta hoon.
-
-📌 **Project Type:** Excel Line Chart / Trend Analysis
-📌 **File Name (suggested):** Month-Wise-Quantity-Analysis
-📌 **Screenshot Used:** `/mnt/data/Line_chart01.png`
-
----
-
-# 📊 **Excel Project — Month Wise Quantity Trend Analysis**
+# 📊 Excel Project — Month Wise Quantity Trend Analysis
 
 <img src="https://github.com/amolhatwar/Excel-Project-Month-Wise-Quantity-Trend-Analysis/blob/44d8632cede6476c4155239a9e32337854ac7c41/Pivot_Table_%26_Line_Chart.png" width="600">
 
